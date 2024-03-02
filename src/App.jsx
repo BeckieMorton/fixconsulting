@@ -1,4 +1,4 @@
-import { BrowserRouter, NavLink, Routes } from "react-router-dom";
+import { BrowserRouter, Routes } from "react-router-dom";
 
 import routes from "./routes/routes";
 
